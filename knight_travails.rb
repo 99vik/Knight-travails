@@ -174,4 +174,4 @@ class String
     end
   end
 
-  Game.new
+  Game.new 
